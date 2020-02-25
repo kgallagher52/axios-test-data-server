@@ -2,6 +2,8 @@
 This is a Go server that connects to ElephantSQL DB and returns the data you are testing for an app. 
 
 ## Resources
+  
+  Heroku build pack: https://github.com/kr/heroku-buildpack-go.git
 
   [Heroku-config-package](https://github.com/kardianos/govendor)
 

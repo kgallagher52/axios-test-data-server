@@ -1,0 +1,37 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "9+2WiNDX9desB7qGySOkBhCiMNU=",
+			"path": "github.com/gorilla/handlers",
+			"revision": "f08afc1876ad882db8074bcb8a4cc96107d3a5f4",
+			"revisionTime": "2020-01-05T22:28:52Z"
+		},
+		{
+			"checksumSHA1": "WrmZY60KZgbO/cYwOyAbylMfyCU=",
+			"path": "github.com/gorilla/mux",
+			"revision": "75dcda0896e109a2a22c9315bca3bb21b87b2ba5",
+			"revisionTime": "2020-01-12T19:17:43Z"
+		},
+		{
+			"checksumSHA1": "iSGHMfkwqVO2WV9lcUhiZ5lXFKA=",
+			"path": "github.com/lib/pq",
+			"revision": "9eb3fc897d6fd97dd4aad3d0404b54e2f7cc56be",
+			"revisionTime": "2020-01-16T17:15:13Z"
+		},
+		{
+			"checksumSHA1": "ATnwV0POluBNQEMjPdylodz0oK0=",
+			"path": "github.com/lib/pq/oid",
+			"revision": "9eb3fc897d6fd97dd4aad3d0404b54e2f7cc56be",
+			"revisionTime": "2020-01-16T17:15:13Z"
+		},
+		{
+			"checksumSHA1": "n0MMCrKKsQuuhv7vLsrtRUGJVA8=",
+			"path": "github.com/lib/pq/scram",
+			"revision": "9eb3fc897d6fd97dd4aad3d0404b54e2f7cc56be",
+			"revisionTime": "2020-01-16T17:15:13Z"
+		}
+	],
+	"rootPath": "axios-test-data-server"
+}

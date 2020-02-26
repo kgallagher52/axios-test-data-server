@@ -69,7 +69,7 @@ func main() {
 	methods := handlers.AllowedMethods([]string{"GET", "PUT", "POST", "DELETE"})
 	headers := handlers.AllowedHeaders([]string{"Content-Type", "Authorization"})
 	origins := handlers.AllowedOrigins([]string{
-		"http://localhost:3000", "http://localhost:3000/cart"})
+		"http://localhost:3000", "http://localhost:3000/cart", "http://localhost:3000/", "localhost:3000", "http://www.axiostestdataserver.com/weboostCartData"})
 
 	port := os.Getenv("PORT")
 	if port == "" {
